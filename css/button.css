@@ -4,7 +4,11 @@
 	line-height: 30px;
 	display: block;
 	padding: 17px;
+<<<<<<< HEAD
 	background: blue;
+=======
+	background: black;
+>>>>>>> yellow-design
 	color: white;
 	border: none;
 }
